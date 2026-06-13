@@ -18,7 +18,7 @@ It allows users to track income, monitor expenses, and maintain financial discip
 ## Project Links  
 
 <p align="center">
-  <a href="https://github.com/ST10448358/PiggyPocket_Part2.git">
+  <a href="https://github.com/ST10448358/PiggyPocket_Part3.git">
     <img src="https://img.shields.io/badge/View%20Code-GitHub-black?style=for-the-badge&logo=github"><br>
   </a>
 
